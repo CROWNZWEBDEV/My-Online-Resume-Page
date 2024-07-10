@@ -1,0 +1,73 @@
+Headline:
+Versatile C# Developer | Multilingual Programmer | Japanese Language Enthusiast
+
+=========================================
+
+Summary:
+Results-driven C# developer with a proven track record of crafting efficient, scalable, and secure applications.
+Proficient in a multitude of programming languages, demonstrating adaptability and a continuous learning mindset.
+Fluent in Japanese, with a deep appreciation for the culture and a passion for leveraging technology to bridge international boundaries.
+Seeking to contribute technical expertise, multilingual communication skills, and a collaborative spirit to innovative projects in a dynamic, global environment.
+
+=========================================
+
+Technologies to focus on:
+JavaScript: Widely used for front-end and back-end web development, including frameworks like React and Node.js.
+Python: Known for its simplicity and versatility, used in web development, data analysis, artificial intelligence, and more.
+Java: Popular for enterprise applications, Android app development, and large-scale systems.
+C#: Commonly used for Windows applications, game development, and enterprise software.
+SQL: Essential for managing and querying databases, a crucial skill for back-end developers and data analysts.
+Git: Proficiency in version control systems like Git is highly valued for collaboration and code management.
+React: A JavaScript library for building user interfaces, widely used in modern web development.
+Node.js: A runtime environment for executing JavaScript code outside of a web browser, commonly used for server-side scripting.
+Docker: Understanding containerization and Docker is essential for modern DevOps practices and deployment.
+Kubernetes: Proficiency in container orchestration is increasingly important for managing containerized applications at scale.
+
+=========================================
+
+Sinclair Summary:
+Starting college at Sinclair Community College is a significant step toward gaining knowledge and skills in the field of programming. While not receiving a degree from Sinclair Community College may seem unconventional, your commitment to self-learning and practical experience in the programming field can be seen as an alternative path to expertise. By immersing yourself in the programming industry, you have likely acquired valuable hands-on experience, honed your technical abilities, and developed a deep understanding of industry trends and best practices.
+
+Your decision to forgo a traditional degree in favor of practical experience demonstrates your proactive approach to professional development and your ability to adapt to the rapidly evolving technology landscape. It's important to highlight the specific projects, achievements, and skills you have acquired through self-learning, as well as any relevant certifications or industry recognition you may have received.
+
+Furthermore, emphasizing your in-depth knowledge of programming languages, frameworks, and tools, as well as any contributions to open-source projects or relevant communities, can showcase your expertise and dedication to the field. Employers often value practical skills and real-world experience, so highlighting your accomplishments in the programming field will be crucial in positioning yourself as a competitive candidate.
+
+In summary, while not obtaining a degree from Sinclair Community College, your demonstrated commitment to self-learning and your substantial experience in the programming field can be leveraged as a unique and valuable asset in your professional journey. Emphasizing your practical expertise, industry insights, and tangible contributions will be essential in showcasing your qualifications and positioning yourself for continued success in the programming industry.
+
+=========================================
+
+Greene Country Career Center Summary:
+Certainly! Here's a professional summary of your two years at Greene Country Career Center, highlighting your achievements:
+
+During my two years at Greene Country Career Center studying Information Services, I demonstrated exceptional dedication, skill, and commitment to academic and professional excellence. Through my hard work and passion for the field, I achieved the following notable merits:
+
+Qualified Regionals in Web Development: By excelling in the field of web development, I showcased my proficiency in creating dynamic and user-friendly web solutions. This accomplishment reflects my ability to leverage programming languages, design principles, and problem-solving skills to create impactful digital experiences.
+
+Finished top ten in Business Professionals of America: My ranking in the top ten of Business Professionals of America underscores my strong business acumen, leadership capabilities, and proficiency in applying information technology to real-world business challenges. This achievement demonstrates my ability to excel in competitive environments and showcases my dedication to both technical and professional skill development.
+
+Received National Technical Honors Society: Being recognized by the National Technical Honors Society is a testament to my outstanding academic performance, leadership qualities, and commitment to excellence in the field of information services. This honor reflects my dedication to upholding the highest standards of professionalism and achievement within the technical community.
+
+Honors Roll: Maintaining a position on the Honors Roll exemplifies my consistent academic excellence, strong work ethic, and commitment to achieving the highest standards of performance in my studies. This recognition underscores my ability to excel across a diverse range of subjects and highlights my dedication to academic success.
+
+Perfect Attendance: My perfect attendance record reflects my unwavering dedication, reliability, and accountability. By consistently attending classes and fully engaging in the learning process, I demonstrated a strong commitment to maximizing my educational experience and ensuring consistent progress toward my goals.
+
+In summary, my tenure at Greene Country Career Center was marked by a relentless pursuit of excellence, as evidenced by my achievements in web development, business professionalism, academic recognition, and unwavering commitment to attendance. These accomplishments underscore my passion for information services and my ability to excel both academically and professionally, positioning me as a dedicated and accomplished individual in the field.
+
+=========================================
+
+Beavercreek High School Summary:
+Absolutely! Here's a professional summary highlighting your development as a programmer through self-study and dedication while maintaining your high school career at Beavercreek High School:
+
+During my time at Beavercreek High School, I not only thrived academically, but I also embarked on a journey of self-study and dedication to develop my skills as a programmer. By balancing my high school responsibilities with my passion for programming, I demonstrated an exceptional ability to excel in both academic and technical pursuits.
+
+As a student at Beavercreek High School, I actively engaged in rigorous coursework, extracurricular activities, and leadership roles, all while pursuing my passion for programming through self-study. Through my commitment to academic excellence and my unwavering dedication to self-improvement, I honed my programming skills and expanded my knowledge in the field.
+
+My journey as a self-taught programmer during high school allowed me to delve into various programming languages, software development methodologies, and hands-on projects, all of which contributed to my growth and proficiency in the field. This proactive approach to learning enabled me to acquire a deep understanding of programming concepts, problem-solving strategies, and the practical application of technology.
+
+By leveraging online resources, coding communities, and personal projects, I cultivated a strong foundation in programming, which complemented my academic pursuits at Beavercreek High School. This dual commitment not only enriched my technical expertise but also fostered a well-rounded skill set that encompasses both academic achievements and practical programming proficiency.
+
+Ultimately, my experience at Beavercreek High School provided the perfect backdrop for me to develop as a programmer through self-study and dedication. By successfully navigating the demands of high school while actively pursuing my passion for programming, I demonstrated the ability to balance diverse responsibilities and excel in both academic and technical domains. This unique blend of academic rigor and self-driven skill development has equipped me with a robust foundation for continued success in the field of programming.
+
+=========================================
+
+Began my Associate's degree in computer science and found my commitment to self-learning and already substantial experience in the programming field to be a valuable asset in my professional journey.
